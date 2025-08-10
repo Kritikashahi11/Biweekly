@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\bin\Debug\net8.0\Tutorial3Ex2.exe
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\bin\Debug\net8.0\Tutorial3Ex2.deps.json
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\bin\Debug\net8.0\Tutorial3Ex2.runtimeconfig.json
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\bin\Debug\net8.0\Tutorial3Ex2.dll
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\bin\Debug\net8.0\Tutorial3Ex2.pdb
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.dll
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\refint\Tutorial3Ex2.dll
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.pdb
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\Tutorial3Ex2.genruntimeconfig.cache
+C:\Users\DELL\Desktop\project1\Tutorial3Ex2\obj\Debug\net8.0\ref\Tutorial3Ex2.dll
